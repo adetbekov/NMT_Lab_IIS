@@ -1,3 +1,7 @@
+# Lab IIS NMT Project
+All required data are located in /nmt_data directory.
+Train and test commands on the shell are located in COMMANDS.md file.
+
 # Neural Machine Translation (seq2seq) Tutorial
 
 *Authors: Thang Luong, Eugene Brevdo, Rui Zhao ([Google Research Blogpost](https://research.googleblog.com/2017/07/building-your-own-neural-machine.html), [Github](https://github.com/tensorflow/nmt))*
