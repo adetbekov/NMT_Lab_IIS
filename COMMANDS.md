@@ -1,3 +1,4 @@
+# To train:
 ``` shell
 python -m nmt.nmt \
     --attention=scaled_luong \
@@ -15,6 +16,7 @@ python -m nmt.nmt \
     --metrics=bleu
 ```
 
+# To test:
 ``` shell
     python -m nmt.nmt \
     --out_dir=/Users/dosya/Projects/lab_iis/nmt/nmt_attention_model \
